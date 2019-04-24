@@ -3,7 +3,7 @@ Web Dev I Final Project
 
 
 ## Discription:
-This projevt is an About Me design, which includes a personal background information, a photo gallery, a fun fact article, a blogbarticle and a contact form.
+This project is an About Me design, which includes a personal background information, a photo gallery, a fun fact article, a blogbarticle and a contact form.
 The basic design ideas behind this website is to provide a responsive web page that runs responsively in a multile layouts.
 The contents will have
 
