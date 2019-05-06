@@ -1,9 +1,36 @@
+@font-face {
+    font-family: "MovementV";
+    src: url("fonts/MovementV.ttf");
+}
+
 body {
     font-family: 'Amiri', serif;
 }
 
+.skinny,
+.chunky {
+    background-color: red;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+    font-family: "MovementV";
+}
+
+.skinny{
+    font-variation-settings: 'wght' 125;
+}
+.Chunky{
+    font-variation-settings: 'wght' 125;
+}
+
+
 img {
     max-width: 100%;
+}
+
+.my-picture {
+    width: 75%;
 }
 
 button, input, select, textarea {
